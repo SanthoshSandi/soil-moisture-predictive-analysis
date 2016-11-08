@@ -1,0 +1,6 @@
+{
+  "name": "Soil-moisture-predictive-analysis",
+  "tagline": "This project is done to monitor the soil moisture of a field and also to do predictive analysis on the same to determine what type of crops can be cultivated on that soil. This project is done in affiliation with IoTa(Internet of Things Alliance),Department of IT, SRM University",
+  "body": "# soil-moisture-predictive-analysis\r\n    This project is done to monitor the soil moisture of a field and also to do predictive analysis on the same to determine what type of crops can be cultivated on that soil. \r\n    In this the soil moisture is calculated througn the use of a soil moisture sensor and the values are uploaded to the online cloud \"THINGSPEAK\". Cloud analytics is done in the ThingSpeak channel itself and based on the analytics report, a smarter irrigation technique is proposed and water irrigation is done in such a way so as to reduce water loss and crop loss.\r\n    This project is done in affiliation with IoTa(Internet of Things Alliance),Department of IT, SRM University\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
